@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Josefin Sans", sans-serif;
+    font-family: "Playfair", serif;
+    font-family: "Playfair Display", serif;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 8rem;
+    font-size: 90rem;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.not-visible{
+    opacity: 0!important;
+}
+
+
+
